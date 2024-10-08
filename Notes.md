@@ -105,7 +105,6 @@ def calculate_percentage(part, whole):
 
 percentage = calculate_percentage(50, 200)  # Output: 25.0
 ```
-```
 
 This markdown file summarizes dictionaries, common functions, methods, error handling, and how to calculate percentages in Python.
 
