@@ -1,6 +1,6 @@
 Here’s a markdown file summarizing the topics you requested:
 
-```md
+
 # Python Concepts Overview
 
 ## Dictionaries
@@ -104,7 +104,6 @@ def calculate_percentage(part, whole):
     return (part / whole) * 100
 
 percentage = calculate_percentage(50, 200)  # Output: 25.0
-```
 ```
 
 This markdown file summarizes dictionaries, common functions, methods, error handling, and how to calculate percentages in Python.
